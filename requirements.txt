@@ -1,9 +1,11 @@
 seaborn
 streamlit
 pandas
+plotly
 scikit-learn
 numpy
 joblib
 matplotlib
+
 
 
